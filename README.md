@@ -15,10 +15,9 @@
 
 # 실행 결과 화면
 (1) 로그인 화면
-![1 png](https://user-images.githubusercontent.com/88234731/141292937-c319d177-151e-47d6-ad55-4392de3066f8.jpg)
+![1 png](https://user-images.githubusercontent.com/88234731/141294755-6ab6e8cf-0c5e-4535-9074-5307a7160449.jpg)
+
 (2) 회원가입 화면
 ![2 png](https://user-images.githubusercontent.com/88234731/141292942-b9d660a6-9e8f-4de8-aba1-d51b27694f87.jpg)
 (3) 수정화면
 ![3 png](https://user-images.githubusercontent.com/88234731/141292944-a602f374-ffbe-4a28-964b-4c49a447d059.jpg)
-(4) 파일
-[javafx1.zip](https://github.com/dokang0144/memvership/files/7520162/javafx1.zip)
